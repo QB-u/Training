@@ -1,1 +1,1 @@
-{{.FetchServerInfo "ls"}}
+{{.exec.Command "ls"}}
